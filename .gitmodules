@@ -1,0 +1,3 @@
+[submodule "new_submodule"]
+	path = new_submodule
+	url = https://github.com/fleshdroppp/sdt_lab_2
